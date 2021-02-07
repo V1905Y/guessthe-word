@@ -1,0 +1,10 @@
+#sec1{
+    text-align: right;
+    background-color: aqua;
+}
+#sec2{
+    text-align: center;
+    margin: 50px;
+    border-style: solid;
+    border-width: 10px;
+}
